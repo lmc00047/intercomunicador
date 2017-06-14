@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Audiostream</string>
+    <string name="stop">stop</string>
+    <string name="audio_streaming_service_started">audio_streaming_service_started</string>
+    <string name="audio_streaming_service_stopped">audio_streaming_service_stopped</string>
+    <string name="failed_to_turn_bluetooth_on">failed_to_turn_bluetooth_on</string>
+    <string name="turn_bluetooth_off">turn_bluetooth_off</string>
+    <string name="turn_bluetooth_on">turn_bluetooth_on</string>
+    <string name="start">start</string>
+</resources>
